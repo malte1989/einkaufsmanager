@@ -14,32 +14,14 @@ Datenschutzerklärung zum Einkaufsmanager
 <h2>Kamera</h2>
   <div>• Bilder und Videos aufnehmen: Nur wenn der Benutzer ein Bild für ein Rezept oder Produkt speichern möchte</div>
 
-     </section>
-   
-    <nav class="to-top"><a href="#contents">back to top</a></nav>
-   
-    <section>
-    
      <h1 id="collection">How we collect info</h1>
 
       <h2 id="collection_tracking">Tracking technologies</h2>
           <div>Crashanalytics for Bug Tracking</div>
           <div>No further information is collected</div>
 
-     </section>
-
-    <nav class="to-top"><a href="#contents">back to top</a></nav>
-
-    <section>
-
      <h1 id="use">How we use your info</h1>
         <div>When you fetch article data for one article, the GTIN is transferred to an API to collect the information.</div>
-
-     </section>
-
-    <nav class="to-top"><a href="#contents">back to top</a></nav>
-
-    <section>
 
      <h1 id="disclosure">When we share your info</h1>
         <div>The App don't share any information by itself. </div>
@@ -48,11 +30,6 @@ Datenschutzerklärung zum Einkaufsmanager
       <h2 id="disclosure_partners">Our Partners</h2>
         <div>I dont have any partners.</div>
 
-     </section>
-
-    <nav class="to-top"><a href="#contents">back to top</a></nav>
-
-    <section>
 
      <h1 id="storage">How we store your info</h1>
 
@@ -63,12 +40,6 @@ Datenschutzerklärung zum Einkaufsmanager
 
       <h2 id="storage_duration">How long we keep your info</h2>
         <div>Until you delete the App or delete the data in it.</div>
-
-     </section>
-
-    <nav class="to-top"><a href="#contents">back to top</a></nav>
-
-    <section>
 
      <h1 id="misc">About</h1>
 
