@@ -41,8 +41,8 @@ How long we keep your info
 
 
 Changes
-  Look in the Play Store.
-  After every update the change log is displayed in the App.
+- Look in the Play Store.
+- After every update the change log is displayed in the App.
 
 Contact me
-  haushaltsmanager@gmail.com
+- haushaltsmanager@gmail.com
