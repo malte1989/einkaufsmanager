@@ -4,8 +4,8 @@ Datenschutzerklärung zum Einkaufsmanager
 Permissions
 
 Fotos/Medien/Dateien
-  • USB-Speicherinhalte lesen (SD Karte lesend): Zum hinzufügen von Bildern von der SD Karte
-  • USB-Speicherinhalte ändern oder löschen (SD Karte schreibend): Zum exportieren der Daten durch den Benutzer
+- USB-Speicherinhalte lesen (SD Karte lesend): Zum hinzufügen von Bildern von der SD Karte
+- USB-Speicherinhalte ändern oder löschen (SD Karte schreibend): Zum exportieren der Daten durch den Benutzer
 
 Sonstiges
   • Zugriff auf alle Netzwerke (Internet): Nur für die Bildersuche
